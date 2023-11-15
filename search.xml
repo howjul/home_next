@@ -1,21 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/11/13/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>Hello from /home_1</title>
+    <url>/2023/04/19/home_1/</url>
+    <content><![CDATA[<div class="note default"><p>
+这是上个博客网站的第一篇文章......
+</p></div>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p>又是一节课都没有的周三，最近确实是非常的轻松，从上周四左右就几乎没有什么作业了，emm……闲着无事，就又开始乱玩了儿了，不过昨天半天加上今天几乎一整天，都在研究这个hexo，不过说实话有了上次的mkdocs的操作经历之后，这个就很快了，至少部署是很快了，感觉hexo要花哨很多哈哈哈哈哈哈哈，朴素的mkdocs比较适合放我的学习笔记，那么这个博客网站，就放点其他的东西吧。虽然事实上，都是在搬运别人写好的东西，前端的这些代码看看确实是复杂，我我我我我还是算了。所以搞这个网站大部分时间还是花在了读懂那些参数和文件的结构什么，不过最终终于弄好了呗～  </p>
+<p>说得好，做这个网站其实可能对我的学习成绩没有什么帮助，就当是消遣了吧……</p>
 ]]></content>
+      <categories>
+        <category>开始</category>
+      </categories>
+      <tags>
+        <tag>网站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站搭建日志</title>
+    <url>/2023/11/15/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/</url>
+    <content><![CDATA[<p><a href="https://siriusq.top/Next%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96">Next 主题美化 (仅 7.1 版本)</a></p>
+]]></content>
+      <categories>
+        <category>开始</category>
+      </categories>
+      <tags>
+        <tag>网站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>计算机系统期末考试相关</title>
+    <url>/2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/</url>
+    <content><![CDATA[<h2 id="计算机系统一"><a href="#计算机系统一" class="headerlink" title="计算机系统一"></a>计算机系统一</h2><p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160056.jpg" alt="IMG_20231115_160056"></p>
+<p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160114.jpg" alt="IMG_20231115_160114"></p>
+<h2 id="计算机系统二"><a href="#计算机系统二" class="headerlink" title="计算机系统二"></a>计算机系统二</h2><p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160122.jpg" alt="IMG_20231115_160122"></p>
+<p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160130.jpg" alt="IMG_20231115_160130"></p>
+<h2 id="计算机系统三"><a href="#计算机系统三" class="headerlink" title="计算机系统三"></a>计算机系统三</h2><p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160036.jpg" alt="IMG_20231115_160036"></p>
+<p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160045.jpg" alt="IMG_20231115_160045"></p>
+]]></content>
+      <categories>
+        <category>课程</category>
+      </categories>
+      <tags>
+        <tag>计算机系统</tag>
+      </tags>
   </entry>
 </search>
