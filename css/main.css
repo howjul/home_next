@@ -190,6 +190,14 @@ body {
   min-height: 100%;
   position: relative;
   transition: padding 0.2s ease-in-out;
+  overflow-x: hidden;
+  width: 100vw;
+  overflow-y: scroll;
+}
+@supports (overflow-x: clip) {
+  body {
+    overflow-x: clip;
+  }
 }
 h1,
 h2,
@@ -481,6 +489,29 @@ code.hljs {
 }
 .hljs-strong {
   font-weight: bold
+}
+.highlight:hover .copy-btn,
+.code-container:hover .copy-btn {
+  opacity: 1;
+}
+.code-container {
+  position: relative;
+}
+.copy-btn {
+  color: #333;
+  cursor: pointer;
+  line-height: 1.6;
+  opacity: 0;
+  padding: 2px 6px;
+  position: absolute;
+  transition: opacity 0.2s ease-in-out;
+  background-color: #eee;
+  background-image: linear-gradient(#fcfcfc, #eee);
+  border: 1px solid #d5d5d5;
+  border-radius: 3px;
+  font-size: 0.8125em;
+  right: 4px;
+  top: 8px;
 }
 code,
 kbd,
@@ -1199,6 +1230,35 @@ pre code {
 .use-motion .menu-item {
   visibility: hidden;
 }
+.book-mark-link {
+  border-bottom: 0;
+  position: fixed;
+  top: -10px;
+  transition: top 0.3s;
+  right: 30px;
+}
+@media (max-width: 991px) {
+  .book-mark-link {
+    right: 20px;
+  }
+}
+@media (max-width: 991px) {
+  .book-mark-link {
+    display: none;
+  }
+}
+.book-mark-link::before {
+  color: #222;
+  font-size: 32px;
+  line-height: 1;
+  content: '\f02e';
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 900;
+}
+.book-mark-link:hover,
+.book-mark-link-fixed {
+  top: -2px;
+}
 .github-corner :hover .octo-arm {
   animation: octocat-wave 560ms ease-in-out;
 }
@@ -1596,10 +1656,9 @@ pre code {
   width: 100%;
 }
 .with-love {
-  color: #f00;
+  color: #1e3050;
   display: inline-block;
   margin: 0 5px;
-  animation: icon-animate 1.33s ease-in-out infinite;
 }
 @keyframes icon-animate {
   0%, 100% {
@@ -1634,6 +1693,16 @@ pre code {
 }
 .back-to-top.back-to-top-on:hover {
   opacity: 0.8;
+}
+.reading-progress-bar {
+  --progress: 0;
+  background: #ffc0cb;
+  height: 3px;
+  position: fixed;
+  z-index: 50;
+  width: var(--progress);
+  left: 0;
+  top: 0;
 }
 .rtl.post-body p,
 .rtl.post-body a,
@@ -2462,7 +2531,7 @@ header.header {
 .main-inner {
   border-radius: initial;
   box-sizing: border-box;
-  width: calc(100% - 252px);
+  width: calc(100% - 332px);
 }
 @media (max-width: 991px) {
   .main-inner {
@@ -2471,7 +2540,7 @@ header.header {
   }
 }
 .footer-inner {
-  padding-left: 252px;
+  padding-left: 332px;
 }
 @media (max-width: 991px) {
   .footer-inner {
@@ -2481,7 +2550,7 @@ header.header {
   }
 }
 .column {
-  width: 240px;
+  width: 320px;
 }
 @media (max-width: 991px) {
   .column {
