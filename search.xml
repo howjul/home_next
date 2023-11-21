@@ -19,11 +19,31 @@
       </tags>
   </entry>
   <entry>
-    <title>网站搭建日志</title>
+    <title>Hello～</title>
+    <url>/2023/11/21/home/</url>
+    <content><![CDATA[<p>这里是👉👉👉HowJul👈👈👈的主页！！！！</p>
+<ul>
+<li>💡个人笔记网址：<a href="https://howjul.github.io/note">https://howjul.github.io/note</a> or <a href="http://zhz.zone/note">http://zhz.zone/note</a></li>
+<li>🏡个人主页网址：<a href="https://howjul.github.io/">https://howjul.github.io</a> or <a href="http://zhz.zone/">http://zhz.zone</a></li>
+<li>🚀网站更新日志：<a href="https://zhz.zone/2023/11/15/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/">点此跳转</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>开始</category>
+      </categories>
+      <tags>
+        <tag>网站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站更新日志</title>
     <url>/2023/11/15/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/</url>
     <content><![CDATA[<ul>
 <li>2023.11.21<ul>
-<li>更新《计算机动画复习》</li>
+<li><input disabled="" type="checkbox"> 更新友情链接页面</li>
+<li><input checked="" disabled="" type="checkbox"> 更新About</li>
+<li><input checked="" disabled="" type="checkbox"> 更新主页 </li>
+<li><input checked="" disabled="" type="checkbox"> 更新《计算机动画复习》</li>
 <li><input checked="" disabled="" type="checkbox"> <a href="https://siriusq.top/Next%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96">在文章结尾添加本文结束标志</a>：关联三个文件<code>\themes\next\layout\_macro</code> <code>\themes\next\layout\_macro\post.njk</code> <code>_config.yml</code></li>
 <li><input checked="" disabled="" type="checkbox"> <a href="https://siriusq.top/Next%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96">博文压缩</a></li>
 <li><input checked="" disabled="" type="checkbox"> <a href="https://siriusq.top/Next%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96">网站运行时间</a>：关联文件<code>themes/next/layout/_partials/footer.njk</code></li>
@@ -36,8 +56,8 @@
 <ul>
 <li><p>2023.11.15</p>
 <ul>
-<li>更新《计算机系统期末考试相关》</li>
-<li>更新《网站搭建日志》</li>
+<li><input checked="" disabled="" type="checkbox"> 更新《计算机系统期末考试相关》</li>
+<li><input checked="" disabled="" type="checkbox"> 更新《网站搭建日志》</li>
 <li><input checked="" disabled="" type="checkbox"> <a href="https://cloud.tencent.com/developer/article/1964347">hexo的markdown语法</a></li>
 <li><input checked="" disabled="" type="checkbox"> <a href="https://blog.csdn.net/yueyue200830/article/details/104470646">首页文章折叠方法</a></li>
 <li><input checked="" disabled="" type="checkbox"> <a href="https://hexo-next.readthedocs.io/zh-cn/latest/next/advanced/%E9%A6%96%E9%A1%B5%E7%BD%AE%E9%A1%B6/">首页文章置顶方法</a></li>
