@@ -1,27 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello from /home_1</title>
-    <url>/2023/04/19/home_1/</url>
-    <content><![CDATA[<div class="note default"><p>
-这是上个博客网站的第一篇文章......因为上一个博客网站比较花里胡哨，导致手机上常常无法显示或者加载速度过慢，因此改用next模版。
-</p></div>
-
-<p>点此查看废弃网站！<a href="https://zhz.zone/home_1">https://zhz.zone/home_1</a>。</p>
-<p>又是一节课都没有的周三，最近确实是非常的轻松，从上周四左右就几乎没有什么作业了，emm……闲着无事，就又开始乱玩了儿了，不过昨天半天加上今天几乎一整天，都在研究这个hexo，不过说实话有了上次的mkdocs的操作经历之后，这个就很快了，至少部署是很快了，感觉hexo要花哨很多哈哈哈哈哈哈哈，朴素的mkdocs比较适合放我的学习笔记，那么这个博客网站，就放点其他的东西吧。虽然事实上，都是在搬运别人写好的东西，前端的这些代码看看确实是复杂，我我我我我还是算了。所以搞这个网站大部分时间还是花在了读懂那些参数和文件的结构什么，不过最终终于弄好了呗～  </p>
-<p>说得好，做这个网站其实可能对我的学习成绩没有什么帮助，就当是消遣了吧……</p>
-]]></content>
-      <categories>
-        <category>开始</category>
-      </categories>
-      <tags>
-        <tag>网站</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello～</title>
     <url>/2023/11/21/home/</url>
-    <content><![CDATA[<p>这里是👉👉👉HowJul👈👈👈的主页！！！！</p>
+    <content><![CDATA[<p>这里是👉👉👉HowJul👈👈👈的主页！！！！（（（朱镐哲</p>
 <ul>
 <li>💡个人笔记网址：<a href="https://howjul.github.io/note">https://howjul.github.io/note</a> or <a href="http://zhz.zone/note">http://zhz.zone/note</a></li>
 <li>🏡个人主页网址：<a href="https://howjul.github.io/">https://howjul.github.io</a> or <a href="http://zhz.zone/">http://zhz.zone</a></li>
@@ -73,6 +55,24 @@
 </ul>
 </li>
 </ul>
+]]></content>
+      <categories>
+        <category>开始</category>
+      </categories>
+      <tags>
+        <tag>网站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello from /home_1</title>
+    <url>/2023/04/19/home_1/</url>
+    <content><![CDATA[<div class="note default"><p>
+这是上个博客网站的第一篇文章......因为上一个博客网站比较花里胡哨，导致手机上常常无法显示或者加载速度过慢，因此改用next模版。
+</p></div>
+
+<p>点此查看废弃网站！<a href="https://zhz.zone/home_1">https://zhz.zone/home_1</a>。</p>
+<p>又是一节课都没有的周三，最近确实是非常的轻松，从上周四左右就几乎没有什么作业了，emm……闲着无事，就又开始乱玩了儿了，不过昨天半天加上今天几乎一整天，都在研究这个hexo，不过说实话有了上次的mkdocs的操作经历之后，这个就很快了，至少部署是很快了，感觉hexo要花哨很多哈哈哈哈哈哈哈，朴素的mkdocs比较适合放我的学习笔记，那么这个博客网站，就放点其他的东西吧。虽然事实上，都是在搬运别人写好的东西，前端的这些代码看看确实是复杂，我我我我我还是算了。所以搞这个网站大部分时间还是花在了读懂那些参数和文件的结构什么，不过最终终于弄好了呗～  </p>
+<p>说得好，做这个网站其实可能对我的学习成绩没有什么帮助，就当是消遣了吧……</p>
 ]]></content>
       <categories>
         <category>开始</category>
