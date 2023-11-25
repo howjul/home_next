@@ -18,11 +18,40 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello from /home_1</title>
+    <url>/2023/04/19/home_1/</url>
+    <content><![CDATA[<div class="note default"><p>
+这是上个博客网站的第一篇文章......因为上一个博客网站比较花里胡哨，导致手机上常常无法显示或者加载速度过慢，因此改用next模版。
+</p></div>
+
+<p>点此查看废弃网站！<a href="https://zhz.zone/home_1">https://zhz.zone/home_1</a>。</p>
+<p>又是一节课都没有的周三，最近确实是非常的轻松，从上周四左右就几乎没有什么作业了，emm……闲着无事，就又开始乱玩了儿了，不过昨天半天加上今天几乎一整天，都在研究这个hexo，不过说实话有了上次的mkdocs的操作经历之后，这个就很快了，至少部署是很快了，感觉hexo要花哨很多哈哈哈哈哈哈哈，朴素的mkdocs比较适合放我的学习笔记，那么这个博客网站，就放点其他的东西吧。虽然事实上，都是在搬运别人写好的东西，前端的这些代码看看确实是复杂，我我我我我还是算了。所以搞这个网站大部分时间还是花在了读懂那些参数和文件的结构什么，不过最终终于弄好了呗～  </p>
+<p>说得好，做这个网站其实可能对我的学习成绩没有什么帮助，就当是消遣了吧……</p>
+]]></content>
+      <categories>
+        <category>开始</category>
+      </categories>
+      <tags>
+        <tag>网站</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>网站更新日志</title>
     <url>/2023/11/15/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/</url>
     <content><![CDATA[<ul>
-<li>2023.11.21<ul>
-<li><input disabled="" type="checkbox"> 更新友情链接页面</li>
+<li>2023.11.25<ul>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://satparamita.top/p/9c1a2afe.html#more">边框圆角</a></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://satparamita.top/p/9c1a2afe.html#more">图标颜色</a>：关联文件<code>source/_data/styles.styl</code></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://satparamita.top/p/3752fd9a.html">标签云</a>和<a href="https://github.com/D0n9X1n/hexo-tag-cloud/blob/master/README.ZH.md">源仓库</a></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://satparamita.top/p/3752fd9a.html">更新友情链接页面</a></li>
+</ul>
+</li>
+</ul>
+<span id="more"></span>
+
+<ul>
+<li><p>2023.11.21</p>
+<ul>
 <li><input checked="" disabled="" type="checkbox"> 更新About</li>
 <li><input checked="" disabled="" type="checkbox"> 更新主页 </li>
 <li><input checked="" disabled="" type="checkbox"> 更新《计算机动画复习》</li>
@@ -32,10 +61,6 @@
 <li><input checked="" disabled="" type="checkbox"> 访客数量统计（已经集成在next中</li>
 </ul>
 </li>
-</ul>
-<span id="more"></span>
-
-<ul>
 <li><p>2023.11.15</p>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> 更新《计算机系统期末考试相关》</li>
@@ -64,21 +89,20 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello from /home_1</title>
-    <url>/2023/04/19/home_1/</url>
-    <content><![CDATA[<div class="note default"><p>
-这是上个博客网站的第一篇文章......因为上一个博客网站比较花里胡哨，导致手机上常常无法显示或者加载速度过慢，因此改用next模版。
-</p></div>
-
-<p>点此查看废弃网站！<a href="https://zhz.zone/home_1">https://zhz.zone/home_1</a>。</p>
-<p>又是一节课都没有的周三，最近确实是非常的轻松，从上周四左右就几乎没有什么作业了，emm……闲着无事，就又开始乱玩了儿了，不过昨天半天加上今天几乎一整天，都在研究这个hexo，不过说实话有了上次的mkdocs的操作经历之后，这个就很快了，至少部署是很快了，感觉hexo要花哨很多哈哈哈哈哈哈哈，朴素的mkdocs比较适合放我的学习笔记，那么这个博客网站，就放点其他的东西吧。虽然事实上，都是在搬运别人写好的东西，前端的这些代码看看确实是复杂，我我我我我还是算了。所以搞这个网站大部分时间还是花在了读懂那些参数和文件的结构什么，不过最终终于弄好了呗～  </p>
-<p>说得好，做这个网站其实可能对我的学习成绩没有什么帮助，就当是消遣了吧……</p>
+    <title>计算机系统期末考试相关</title>
+    <url>/2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/</url>
+    <content><![CDATA[<h2 id="计算机系统一"><a href="#计算机系统一" class="headerlink" title="计算机系统一"></a>计算机系统一</h2><p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160056.jpg" alt="IMG_20231115_160056"></p>
+<p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160114.jpg" alt="IMG_20231115_160114"></p>
+<h2 id="计算机系统二"><a href="#计算机系统二" class="headerlink" title="计算机系统二"></a>计算机系统二</h2><p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160122.jpg" alt="IMG_20231115_160122"></p>
+<p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160130.jpg" alt="IMG_20231115_160130"></p>
+<h2 id="计算机系统三"><a href="#计算机系统三" class="headerlink" title="计算机系统三"></a>计算机系统三</h2><p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160036.jpg" alt="IMG_20231115_160036"></p>
+<p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160045.jpg" alt="IMG_20231115_160045"></p>
 ]]></content>
       <categories>
-        <category>开始</category>
+        <category>课程资料</category>
       </categories>
       <tags>
-        <tag>网站</tag>
+        <tag>计算机系统</tag>
       </tags>
   </entry>
   <entry>
@@ -358,23 +382,6 @@
       </categories>
       <tags>
         <tag>计算机动画</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>计算机系统期末考试相关</title>
-    <url>/2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/</url>
-    <content><![CDATA[<h2 id="计算机系统一"><a href="#计算机系统一" class="headerlink" title="计算机系统一"></a>计算机系统一</h2><p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160056.jpg" alt="IMG_20231115_160056"></p>
-<p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160114.jpg" alt="IMG_20231115_160114"></p>
-<h2 id="计算机系统二"><a href="#计算机系统二" class="headerlink" title="计算机系统二"></a>计算机系统二</h2><p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160122.jpg" alt="IMG_20231115_160122"></p>
-<p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160130.jpg" alt="IMG_20231115_160130"></p>
-<h2 id="计算机系统三"><a href="#计算机系统三" class="headerlink" title="计算机系统三"></a>计算机系统三</h2><p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160036.jpg" alt="IMG_20231115_160036"></p>
-<p><img src="/./2023/11/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/IMG_20231115_160045.jpg" alt="IMG_20231115_160045"></p>
-]]></content>
-      <categories>
-        <category>课程资料</category>
-      </categories>
-      <tags>
-        <tag>计算机系统</tag>
       </tags>
   </entry>
 </search>
