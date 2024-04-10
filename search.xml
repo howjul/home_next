@@ -406,6 +406,11 @@
     <title>网站更新日志</title>
     <url>/2023/11/15/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/</url>
     <content><![CDATA[<ul>
+<li><p>2024.4.10</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> 移除<a href="https://vkali.com/archives/ea0a751e.html#%E7%B2%92%E5%AD%90%E6%97%B6%E9%92%9F%E7%89%B9%E6%95%88">sidebar粒子时钟特效</a>和<a href="https://satparamita.top/p/3752fd9a.html">标签云</a>，因为边栏加载实再太慢了</li>
+</ul>
+</li>
 <li><p>2024.3.14</p>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> 更新网址和影视</li>
